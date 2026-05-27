@@ -2,7 +2,6 @@ var adfoxBiddersMap = {
   "segmento": "1935537",
   "betweenDigital": "1910903",
   "adriver": "1938326",
-  "relap": "1911232",
   "adfox_imho-video": "1936603",
   "adfox_adsmart": "1926629",
   "sape": "2215524",
@@ -120,12 +119,6 @@ var adUnits = [
         }
       },
       {
-        "bidder": "relap",
-        "params": {
-          "placementId": "Fj09LP4_LtUvVlZW"
-        }
-      },
-      {
         "bidder": "adfox_imho-video",
         "params": {
           "p1": "csyzm",
@@ -193,12 +186,6 @@ var adUnits = [
         }
       },
       {
-        "bidder": "relap",
-        "params": {
-          "placementId": "S2ZmHM4Pb5RuWVlZ"
-        }
-      },
-      {
         "bidder": "adfox_adsmart",
         "params": {
           "p1": "cuikv",
@@ -245,12 +232,6 @@ var adUnits = [
         "bidder": "betweenDigital",
         "params": {
           "placementId": "428707"
-        }
-      },
-      {
-        "bidder": "relap",
-        "params": {
-          "placementId": "Yp1iD84OYYhy0v7-"
         }
       },
       {
@@ -330,12 +311,6 @@ var adUnits = [
         }
       },
       {
-        "bidder": "relap",
-        "params": {
-          "placementId": "k2yTD84OSX6Eq-_v"
-        }
-      },
-      {
         "bidder": "adfox_adsmart",
         "params": {
           "p1": "cuikq",
@@ -383,12 +358,6 @@ var adUnits = [
         "bidder": "betweenDigital",
         "params": {
           "placementId": "4534308"
-        }
-      },
-      {
-        "bidder": "relap",
-        "params": {
-          "placementId": "LG9vZmqrxj3HLi4u"
         }
       },
       {
@@ -448,12 +417,6 @@ var adUnits = [
         "bidder": "betweenDigital",
         "params": {
           "placementId": "2427273"
-        }
-      },
-      {
-        "bidder": "relap",
-        "params": {
-          "placementId": "HOMcQYBAf5ZsZVFR"
         }
       },
       {
@@ -539,12 +502,6 @@ var adUnits = [
         "bidder": "betweenDigital",
         "params": {
           "placementId": "2427274"
-        }
-      },
-      {
-        "bidder": "relap",
-        "params": {
-          "placementId": "Z1JSRZdWyTLIHx8f"
         }
       },
       {
@@ -652,12 +609,6 @@ var adUnits = [
         }
       },
       {
-        "bidder": "relap",
-        "params": {
-          "placementId": "_QL9_Tz8t16kAjQ0"
-        }
-      },
-      {
         "bidder": "adfox_adsmart",
         "params": {
           "p1": "cuiky",
@@ -740,12 +691,6 @@ var adUnits = [
         "bidder": "betweenDigital",
         "params": {
           "placementId": "2427276"
-        }
-      },
-      {
-        "bidder": "relap",
-        "params": {
-          "placementId": "eklJM-EgVq1XMzMz"
         }
       }
     ]
