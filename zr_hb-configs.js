@@ -10,7 +10,6 @@ var adfoxBiddersMap = {
   "hybrid": "2923139",
   "videonow": "3361634",
   "sparrow": "3361713",
-  "adfox_yandex_adplay-adv": "3363899",
 };
 
 var adUnits = [
@@ -552,13 +551,6 @@ var adUnits = [
         "bidder": "sparrow",
         "params": {
           "placementId": "107344"
-        }
-      },
-      {
-        "bidder": "adfox_yandex_adplay-adv",
-        "params": {
-          "p1": "dihfo",
-          "p2": "jbzl"
         }
       }
     ]
